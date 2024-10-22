@@ -52,11 +52,6 @@ ggplot(mtcars, aes(x = factor(cyl))) +
 model2 <- lm(mpg ~ hp + wt, data = mtcars)
 summary(model2)
 
-####
-#here is a note to 
-#future you. commit often 
-#let's practice safe code
-#### 
 ```
 
 

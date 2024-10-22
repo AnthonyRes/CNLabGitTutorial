@@ -75,6 +75,10 @@ ggplot(mtcars, aes(x = hp, y = mpg, color = factor(gear), size = wt)) +
          y = "Miles Per Gallon",
          color = "Gears",
          size = "Weight")
+
+# the haiku returns
+# in glory, it shall be known
+# haikus belong here         
 ```
 
 
